@@ -1,0 +1,140 @@
+.jcarousel-skin-tango{
+float:left;
+margin:10px 0px 0px 35px;
+color:#6F6F6F}
+
+.jcarousel-skin-tango .jcarousel-container {
+	margin-top:0px;
+	float:left;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+/*.jcarousel-skin-tango .jcarousel-container-horizontal {
+    width: 740px;
+    padding: 0px 0px;
+}*/
+
+.jcarousel-skin-tango .jcarousel-container-vertical {
+    width: 340px;
+    height: 45px;
+
+}
+
+.jcarousel-skin-tango .jcarousel-clip {
+    overflow: hidden;
+}
+
+/*.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width:  740px;
+    height: 90px;
+}*/
+
+.jcarousel-skin-tango .jcarousel-clip-vertical {
+    width:  340px;
+    height: 50px;
+}
+
+/*.jcarousel-skin-tango .jcarousel-item {
+    width: 115px;
+    height: 68px;
+	border-left:1px solid #484848;
+	padding:0 10px;
+	line-height:15px;
+	font-size:14px;
+	color:#484848;
+	font-weight:700;
+}*/
+
+.jcarousel-skin-tango .jcarousel-item {
+	padding:0 0px;
+    width:  340px;
+    height: 60px;
+}
+
+
+
+/*.jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;
+    margin-right: 0px;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 0px;
+    margin-right: 0;
+}*/
+
+.jcarousel-skin-tango .jcarousel-item-vertical {
+    margin-bottom: 0px;
+}
+
+
+
+
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+
+.jcarousel-skin-tango .jcarousel-next-vertical {
+    position: absolute;
+    top: 28px;
+	left:-25px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background: transparent url(../images/arrow-down.png) no-repeat 3px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-next-vertical:hover,
+.jcarousel-skin-tango .jcarousel-next-vertical:focus {
+    background-position: -21px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-next-vertical:active {
+    background-position: -21px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-next-disabled-vertical,
+.jcarousel-skin-tango .jcarousel-next-disabled-vertical:hover,
+.jcarousel-skin-tango .jcarousel-next-disabled-vertical:focus,
+.jcarousel-skin-tango .jcarousel-next-disabled-vertical:active {
+    cursor: default;
+    background-position: -21px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-vertical {
+    position: absolute;
+    top: 4px;
+	left:-25px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    background: transparent url(../images/arrow-up.png) no-repeat 3px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-vertical:hover,
+.jcarousel-skin-tango .jcarousel-prev-vertical:focus {
+    background-position: -21px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-vertical:active {
+    background-position: -21px 4px;
+}
+
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical,
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical:hover,
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical:focus,
+.jcarousel-skin-tango .jcarousel-prev-disabled-vertical:active {
+    cursor: default;
+    background-position: -21px 4px;
+}
+
+
+
+.jcarousel-skin-tango a { color:#292929; text-decoration:none;}
+.jcarousel-skin-tango a:hover { color:#DE9D11; text-decoration:none;}
